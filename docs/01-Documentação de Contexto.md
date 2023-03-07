@@ -17,10 +17,13 @@ Os objetivos do projeto de controle de ponto são: garantir o cumprimento das jo
 Alguns objetivos específicos do projeto de controle de ponto podem incluir:
 
         •	Implementar um sistema de registro de ponto que seja fácil e acessível para todos os funcionários da empresa, independentemente de suas habilidades tecnológicas.
-        •	Integrar o sistema de controle de ponto com outros sistemas de gestão de recursos humanos, como a folha de pagamento, para facilitar a administração das informações.
+        
         •	Garantir que o sistema de registro de ponto seja preciso e confiável, permitindo a verificação e correção de eventuais erros nos registros.
+
         •	Disponibilizar relatórios precisos e atualizados de horas trabalhadas, para que os gestores possam tomar decisões informadas e aprimorar a eficiência da empresa.
+
         •	Oferecer aos funcionários a opção de registrar suas horas trabalhadas remotamente, por meio de uma aplicação móvel ou outra solução tecnológica, para facilitar a gestão do trabalho à distância.
+
         •	Assegurar a conformidade do sistema de controle de ponto com as leis trabalhistas locais, garantindo a privacidade e a segurança dos dados dos funcionários.
 
  
@@ -38,7 +41,7 @@ A solução tecnológica para o controle de ponto também oferece praticidade, g
 
 ## Público-Alvo
 
-O público-alvo do projeto de controle de ponto são todas as empresas que precisam registrar as horas trabalhadas de seus funcionários. Os principais envolvidos são os gestores de recursos humanos e os responsáveis pela folha de pagamento. Os funcionários da empresa também são importantes usuários do sistema de controle de ponto e devem conseguir utilizá-lo de forma fácil e acessível.
+O público-alvo do projeto de controle de ponto são  empresas que precisam registrar as horas trabalhadas de seus funcionários. Os principais envolvidos são os gestores de recursos humanos e os responsáveis pela folha de pagamento. Os funcionários da empresa também são importantes usuários do sistema de controle de ponto e devem conseguir utilizá-lo de forma fácil e acessível.
 
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
